@@ -1,6 +1,9 @@
 # Mnist_Analysis
-Script is related to 5 tasks.
 
+About
+Mnist dataset in specific forms (2,4,6 & 8 labels or mean brightness 2D arrays) was utilized for dimensionality reduction, clustering and classification implementations for educational purposes.  
+
+Script is related to 5 tasks.
 
 **Task1** : Preprocessing ---> keep 2, 4, 6, 8 labels of dataset and convert to appropriate form.  
 **Task2** : Convert every sample (image 28x28) to 2D array based on mean brightness of even rows (1st component) and mean brightness of odd columns (2nd component).  
